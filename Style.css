@@ -1,6 +1,6 @@
 body{
     background-image: url("Station.jpg");
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
